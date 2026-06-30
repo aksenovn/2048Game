@@ -57,3 +57,4 @@ python game_2048.py
 * `gui_2048.py` — Графическая оболочка игры, обрабатывающая нажатия клавиш и отрисовку сетки с помощью `tkinter`.
 * `__init__.py` — Файл инициализации пакета.
 * `.gitignore` — Настройки исключения временных файлов Python (`__pycache__`) из системы контроля версий Git.
+<img width="496" height="657" alt="image" src="https://github.com/user-attachments/assets/c84d0a8b-c495-46d1-ac22-ff4ca67a0b07" />
